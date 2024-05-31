@@ -25,10 +25,6 @@ Este es un proyecto simple desarrollado en Python y Tkinter que genera contrase�
 
 Las contribuciones son bienvenidas. Si encuentras algún error o tienes ideas para mejorar el proyecto, siéntete libre de abrir un issue o enviar un pull request.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
-
 ## Contacto
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
